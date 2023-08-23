@@ -12,16 +12,8 @@ function App() {
       <header className="App-header">
         <h1>The one stop solution for all your medical needs</h1>
         <img src={logo} className="App-logo" alt="logo" />
-        <p>Atharva Navghane</p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          This is just a practice run to test the deployment of a react project
-          using Github
-        </a>
+        <p>This is just a skeleton of how our website will be</p>
+        
       </header>
     </div>
   );
